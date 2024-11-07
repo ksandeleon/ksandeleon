@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://count.getloli.com/@gitcounter?name=gitcounter&theme=original-new&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto
+(https://count.getloli.com/@gitcounter?name=gitcounter&theme=original-new&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto)
 
 
 <!---
