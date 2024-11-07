@@ -16,5 +16,5 @@ Visitors (Since 2024/11/07)
 - Music
 - Skillissue
 - Linux Distro Hopper
-- Neovim Noobie
+- Vim Motions Noobie
 - Yes, i watch Anime 💀
