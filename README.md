@@ -9,7 +9,7 @@ Visitors (Since 2024/11/07)
 </div>
 <br>
 
- #### About Me
+ #### exec = echo $(whoami)
 
 - Student
 - Introverted
