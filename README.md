@@ -14,7 +14,7 @@ Visitors (Since 2024/11/07)
 - Student
 - Introverted
 - Music
-- Skillissue
+- Skillissue 💀
 - Linux Distro Hopper
 - Vim Motions Noobie
-- Yes, i watch Anime 💀
+- Yes, i watch Anime 
