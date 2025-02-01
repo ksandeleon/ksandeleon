@@ -65,6 +65,6 @@ Visitors (Since 2024/11/07)
  </a>
  <br/><br/>
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,mysql,jupyter,git,github,xampp,jetbrains,vscode,visualstudio,apachenetbeans,androidstudio" alt="More Skills" />
+  <img src="https://skillicons.dev/icons?i=dotnet,mysql,dart,git,github,linux,idea,vscode,visualstudio,vim,androidstudio" alt="More Skills" />
  </a>
 </div>
