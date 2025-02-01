@@ -18,3 +18,16 @@ Visitors (Since 2024/11/07)
 - Linux Distro Hopper
 - Vim Motions Noobie
 - Yes, i watch Anime 
+
+
+
+[![ksandeleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksandeleon)](https://github.com/ksandeleon/github-readme-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeleon)](https://github.com/ksandeleon/github-readme-stats)
+
+
+
+
