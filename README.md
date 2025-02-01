@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 Visitors (Since 2024/11/07)
@@ -9,7 +7,7 @@ Visitors (Since 2024/11/07)
 </div>
 <br>
 
- #### exec = echo $(whoami)
+#### `exec = echo $(whoami)`
 
 - Student
 - Introverted
@@ -17,17 +15,51 @@ Visitors (Since 2024/11/07)
 - Skillissue 💀
 - Linux Distro Hopper
 - Vim Motions Noobie
-- Yes, i watch Anime 
+- Yes, I watch Anime
 
+---
 
+### GitHub Stats
 
-[![ksandeleon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksandeleon)](https://github.com/ksandeleon/github-readme-stats)
+<div align="center">
+ <table>
+  <tr>
+   <td>
+    <a href="https://github.com/ksandeleon">
+     <img src="https://github-readme-stats.vercel.app/api?username=ksandeleon&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </a>
+   </td>
+   <td>
+    <a href="https://github.com/ksandeleon">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeleon&layout=compact&theme=radical" alt="Top Languages" />
+    </a>
+   </td>
+  </tr>
+ </table>
+</div>
 
+---
 
+### Badges
 
+<div align="center">
+ <a href="https://www.debian.org/">
+  <img src="https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=white" alt="Debian OS" />
+ </a>
+ <a href="https://twitter.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
+ </a>
+ <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+ </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeleon)](https://github.com/ksandeleon/github-readme-stats)
+---
 
-
-
-
+<h2 align="center"> Skills </h2>
+<br/>
+<div align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,sqlite,sql,python,c,cpp,java" alt="Skills" />
+ </a>
+</div>
