@@ -56,10 +56,15 @@ Visitors (Since 2024/11/07)
 
 ---
 
+
 <h2 align="center"> Skills </h2>
 <br/>
 <div align="center">
  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,python,c,cpp,java,html,css,js" alt="Skills" />
+ </a>
+ <br/><br/>
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dotnet,mysql,jupyter,git,github,xampp,jetbrains,vscode,visualstudio,apachenetbeans,androidstudio" alt="More Skills" />
  </a>
 </div>
