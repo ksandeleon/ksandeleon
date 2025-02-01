@@ -60,6 +60,6 @@ Visitors (Since 2024/11/07)
 <br/>
 <div align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,sqlite,sql,python,c,cpp,java" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,c,cpp,java,html,css,js" alt="Skills" />
  </a>
 </div>
