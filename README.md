@@ -17,12 +17,11 @@ Visitors (Since 2024/11/07)
 - Vim Motions Noobie
 - Yes, I watch Anime
 
-<div align="center">
   <a href="https://www.debian.org/">
     <img src="https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=white" alt="Debian OS" />
   </a>
-  <a href="your-link-to-ksnrvs">
-    <img src="https://img.shields.io/badge/ksnrvs-000000?logo=github&logoColor=white" alt="ksnrvs" />
+  <a href="https://x.com/">
+            <img src="https://img.shields.io/badge/X.com-000000?logo=x&logoColor=white" alt="X.com" />
   </a>
   <a href="your-link-to-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -30,7 +29,6 @@ Visitors (Since 2024/11/07)
   <a href="your-link-to-christian">
     <img src="https://img.shields.io/badge/Christian-ff7f50?logo=github&logoColor=white" alt="Christian" />
   </a>
-</div>
 
 ---
 
