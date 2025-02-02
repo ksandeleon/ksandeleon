@@ -7,7 +7,7 @@ Visitors (Since 2024/11/07)
 </div>
 <br>
 
-#### `exec = echo $(whoami)`
+#### exec = echo $(whoami)
 
 - Student
 - Introverted
@@ -17,9 +17,24 @@ Visitors (Since 2024/11/07)
 - Vim Motions Noobie
 - Yes, I watch Anime
 
+<div align="center">
+  <a href="https://www.debian.org/">
+    <img src="https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=white" alt="Debian OS" />
+  </a>
+  <a href="your-link-to-ksnrvs">
+    <img src="https://img.shields.io/badge/ksnrvs-000000?logo=github&logoColor=white" alt="ksnrvs" />
+  </a>
+  <a href="your-link-to-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="your-link-to-christian">
+    <img src="https://img.shields.io/badge/Christian-ff7f50?logo=github&logoColor=white" alt="Christian" />
+  </a>
+</div>
+
 ---
 
-### GitHub Stats
+### 📊 My GitHub Stats
 
 
 <a href="https://github.com/ksandeleon">
@@ -31,24 +46,8 @@ Visitors (Since 2024/11/07)
 
 ---
 
-### Badges
+### 🚀 My Skills
 
-<div align="center">
- <a href="https://www.debian.org/">
-  <img src="https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=white" alt="Debian OS" />
- </a>
- <a href="https://twitter.com/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
- </a>
- <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
- </a>
-</div>
-
----
-
-
-<h2 align="center"> Skills </h2>
 <br/>
 <div align="center">
  <a href="https://skillicons.dev">
