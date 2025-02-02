@@ -17,18 +17,21 @@ Visitors (Since 2024/11/07)
 - Vim Motions Noobie
 - Yes, I watch Anime
 
+<div style="display: inline-block;">
   <a href="https://www.debian.org/">
-    <img src="https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=white" alt="Debian OS" />
+    <img src="https://img.shields.io/badge/OS-Debian-teal?logo=debian&logoColor=white" alt="Debian OS" />
   </a>
-  <a href="https://x.com/">
-    <img src="https://img.shields.io/badge/X.com-000000?logo=x&logoColor=white" alt="X.com" />
+
+  <a href="https://x.com/kristyanureeves">
+    <img src="https://img.shields.io/badge/X-%40kristyanureeves-teal?logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="your-link-to-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/christian-de-leon-1991b0341">
+    <img src="https://img.shields.io/badge/LinkedIn-Christian%20De%20Leon-teal?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="your-link-to-christian">
-    <img src="https://img.shields.io/badge/Christian-ff7f50?logo=github&logoColor=white" alt="Christian" />
-  </a>
+</div>
+
+
 
 ---
 
