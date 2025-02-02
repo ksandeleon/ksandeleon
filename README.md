@@ -11,27 +11,20 @@ Visitors (Since 2024/11/07)
 
 - Student
 - Introverted
-- Music
+- RnB and Soul
 - Skillissue 💀
-- Linux Distro Hopper
-- Vim Motions Noobie
-- Yes, I watch Anime
-
-<div style="display: inline-block;">
-  <a href="https://www.debian.org/">
-    <img src="https://img.shields.io/badge/OS-Debian-teal?logo=debian&logoColor=white" alt="Debian OS" />
-  </a>
-
-  <a href="https://x.com/kristyanureeves">
-    <img src="https://img.shields.io/badge/X-%40kristyanureeves-teal?logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/christian-de-leon-1991b0341">
-    <img src="https://img.shields.io/badge/LinkedIn-Christian%20De%20Leon-teal?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+- Yes, I watch Anime 
 
 
+<a href="https://www.debian.org/">
+  <img align="left" src="https://img.shields.io/badge/OS-Debian-teal?logo=debian&logoColor=white" alt="Debian OS" />
+</a>&nbsp;
+<a href="https://x.com/kristyanureeves">
+  <img align="left" src="https://img.shields.io/badge/X-%40kristyanureeves-teal?logo=x&logoColor=white" alt="X (Twitter)" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/christian-de-leon-1991b0341">
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-Christian%20De%20Leon-teal?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 
@@ -44,11 +37,7 @@ Visitors (Since 2024/11/07)
 <a href="https://github.com/ksandeleon">
  <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeleon&layout=compact&theme=radical" alt="Top Languages" />
 </a>
-
-
-
-
-
+<br clear="left"/>
 
 ---
 
