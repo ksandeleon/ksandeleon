@@ -21,22 +21,13 @@ Visitors (Since 2024/11/07)
 
 ### GitHub Stats
 
-<div align="center">
- <table>
-  <tr>
-   <td>
-    <a href="https://github.com/ksandeleon">
-     <img src="https://github-readme-stats.vercel.app/api?username=ksandeleon&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </a>
-   </td>
-   <td>
-    <a href="https://github.com/ksandeleon">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeleon&layout=compact&theme=radical" alt="Top Languages" />
-    </a>
-   </td>
-  </tr>
- </table>
-</div>
+
+<a href="https://github.com/ksandeleon">
+ <img align='left' src="https://github-readme-stats.vercel.app/api?username=ksandeleon&show_icons=true&theme=radical" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/ksandeleon">
+ <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeleon&layout=compact&theme=radical" alt="Top Languages" />
+</a>
 
 ---
 
