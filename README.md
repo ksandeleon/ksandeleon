@@ -21,7 +21,7 @@ Visitors (Since 2024/11/07)
     <img src="https://img.shields.io/badge/OS-Debian-A81D33?logo=debian&logoColor=white" alt="Debian OS" />
   </a>
   <a href="https://x.com/">
-            <img src="https://img.shields.io/badge/X.com-000000?logo=x&logoColor=white" alt="X.com" />
+    <img src="https://img.shields.io/badge/X.com-000000?logo=x&logoColor=white" alt="X.com" />
   </a>
   <a href="your-link-to-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
