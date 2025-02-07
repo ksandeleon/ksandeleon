@@ -42,7 +42,7 @@ Visitors (Since 2024/11/07)<br>
  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,python,c,cpp,java,html,css,js" alt="Skills" />
  </a>
- <br/><br/>
+ <br/>
  <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=dotnet,mysql,dart,git,github,linux,idea,vscode,visualstudio,vim,androidstudio" alt="More Skills" />
  </a>
@@ -50,11 +50,5 @@ Visitors (Since 2024/11/07)<br>
 
 <br>
 <br>
-
-## 🌱 My Projects  
-
-- [Go Parent](https://github.com/ksandeleon/app-go-parent) - to add
-- [Vibe Lang](https://github.com/ksandeleon/v8be-prog-lang) - to add
-- [Go Cycle](https://github.com/ksandeleon/app-go-cycle) - to add
 
 
