@@ -14,7 +14,7 @@ Visitors (Since 2024/11/07)<br>
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=ksandeleon&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
 - Student
 - Introverted
-- Backend (& a bit of Machine-Learning)
+- App Developer
 - Jazz RnB Soul
 - RPG Strategy & Sims
 - Skillissue 💀
